@@ -15,6 +15,3 @@ OpenAI API와 Google Cloud Speech-to-Text 등을 활용하여
 4. 동작 화면 첨부
 
 ![image](https://github.com/user-attachments/assets/af07610e-712b-47ff-ba35-0d0430095f7a)
-
-## 구글 드라이브 보기
-[구글 드라이브 보기](https://drive.google.com/file/d/13GcFD9ahFa_sCAqwWsTdbChvL4n4eLkR/view?usp=sharing) 
